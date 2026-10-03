@@ -1,12 +1,10 @@
 # Logs
 logs
-.env
 STATUS.md
 left.md
 .audit
 performance-audit-report.md
 FIXES.md
-/.env
 python-installer.pkg
 Sales20260405-60-494j8t.csv
 /Sales20260405-60-494j8t.csv
@@ -128,11 +126,9 @@ web_modules/
 .yarn-integrity
 
 # dotenv environment variable files
-.env
 .env.development.local
 .env.test.local
 .env.production.local
-.env.local
 
 evinresume.pdf
 TPA Campus JD - SalesCode.pdf
@@ -672,3 +668,4 @@ tests/e2e-modes/hosted-userdata-*/
 
 # Written by `npm run dev:agent` — per-worktree CDP port + session id.
 agent-browser.json
+config.bat
